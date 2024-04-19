@@ -135,5 +135,27 @@ img {
 }
 
 @media screen and (max-width: 480px){
+
+    .lessons {
+        padding-bottom: 3rem;
+    }
+
+    .steps {
+        margin: 0;
+    }
+
+    .why-us {
+        margin: 0;
+        padding: 3rem 0;
+        background-color: #212121;
+    }
     
+    .row {
+        flex-wrap: wrap;
+    }
+
+    .container .col {
+        width: 100%;
+    }
+
 }
